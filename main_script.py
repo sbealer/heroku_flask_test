@@ -6,8 +6,8 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello World!'
 
-# @app.route('/auth')
-# def auth():
-#     return 'Something else'
+@app.route('/auth')
+def auth():
+    return 'Something else'
 if __name__ == '__main__':
     app.run()
