@@ -11,7 +11,4 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.11 virtualenv at C:\Users\steve.bealer\flask_test_venv" project-jdk-type="Python SDK" />
-  <component name="PyDebuggerOptionsProvider">
-    <option name="mySupportQtDebugging" value="false" />
-  </component>
 </project>
